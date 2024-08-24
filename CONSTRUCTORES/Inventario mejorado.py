@@ -1,4 +1,4 @@
-import os
+
 
 class Inventario:
     def __init__(self, archivo='inventario.txt'):
